@@ -652,12 +652,12 @@ LBP_Data.ButtonProcs = {
 	MAGE = {
 		-- Missile Barrage
 		{44401},
-		-- Hot Streak
-		{48108},
+		-- Hot Streak / Т5 это когда шарик кастовать
+		{48108, 308030},
 		-- Firestarter
 		{54741},
-		-- Fireball!
-		{57761},
+		-- Fireball! / Т5 а это када взрыв
+		{57761, 308029},
 		-- Impact
 		{64343},
 		-- Fingers of Frost
